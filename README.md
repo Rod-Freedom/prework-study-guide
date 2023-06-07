@@ -25,10 +25,6 @@ When a command for the terminal is expressed, it is preceded by a %, while the f
 
 To access to the dev tools, just press "opt + cmd + i" to open console or "cmd + shift + c" to open elements, where you can see the JS functions in action.
 
-    ```md
-    ![alt text](assets/Guide-Screenshot.png)
-    ```
-
 ## Credits
 
 N/A

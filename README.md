@@ -6,7 +6,7 @@ This guide is meant to help you, a new coding apprentice to remember the basics 
 
 You're not supposed to learn from this guide, it's just a tool to refresh your memory when getting stuck on your path of becoming a great coder.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
